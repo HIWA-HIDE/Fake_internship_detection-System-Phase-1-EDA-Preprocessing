@@ -21,6 +21,7 @@ The objective of this project is to preprocess internship posting data so that i
 
 - **Dataset Name:** Fake Internship Detection Dataset
 - **Source:** Kaggle
+- **Dataset Link:** https://www.kaggle.com/datasets/aiexplorer77/internship-scam-detection-dataset/data
 - **Type:** Binary Classification
 - **Target Variable:** `is_fake_posting`
   - **0** = Genuine Internship
